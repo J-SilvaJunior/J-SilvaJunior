@@ -24,7 +24,7 @@ Ah, minhas habilidades que estou desenvolvendo atualmente:<hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/><br>
 </p>
-<p align="center"> Aprendendo PHP ainda 😅</p>
+<p align="center"> Aprendendo <b>PHP</b> ainda 😅</p>
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/><br>
